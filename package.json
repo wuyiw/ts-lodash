@@ -1,0 +1,16 @@
+{
+  "name": "ts-lodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pick.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.14.81",
+    "lodash": "^4.17.5",
+    "vue": "^2.5.13"
+  }
+}
